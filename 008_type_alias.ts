@@ -1,3 +1,3 @@
 type PlayerArray = Array<string>;
-let players: PlayerArray = ["Fun", "Fong", "Fung"];
+let players: PlayerArray = ["Fang", "Fong", "Fung"];
 console.log(players);
